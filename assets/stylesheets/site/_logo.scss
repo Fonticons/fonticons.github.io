@@ -1,0 +1,29 @@
+// provides hover styles for logo when logged in
+.logo {
+  path, polygon { fill: #fff; }
+  rect {
+    @include transition(opacity .4s linear);
+    opacity: 0;
+  }
+  .rect-1 { fill: $fonticons-green; }
+  .rect-2 { fill: $fonticons-blue; }
+  .rect-3 { fill: $fonticons-orange; }
+  .rect-4 { fill: $fonticons-yellow; }
+  .rect-5 { fill: $fonticons-red; }
+  &:hover {
+    rect { opacity: 1; }
+    polygon {
+      @include animation(star-spin .5s 1 linear);
+      @include transform-origin(50% 50%);
+    }
+  }
+}
+
+@include keyframes(star-spin) {
+  from { @include transform(rotate(-72deg)); } // 1/5 of a rotation
+  to { @include transform(rotate(2deg)); } // for some reason, an extra 2 degrees are required for this to look right
+}
+@include keyframes(star-spin-out) {
+  from { @include transform(rotate(72deg)); } // 1/5 of a rotation
+  to { @include transform(rotate(-2deg)); } // for some reason, an extra 2 degrees are required for this to look right
+}

@@ -1,0 +1,19 @@
+$footer-height: 100px;
+$footer-margin: 100px;
+
+#wrap {
+  min-height: 100%;
+  margin: 0 auto (-($footer-height+$footer-margin));
+}
+#push {
+  height: ($footer-height + $footer-margin);
+}
+
+footer {
+  font-size: 1rem;
+  margin-top: $footer-margin;
+  height: $footer-height;
+  background-color: $fonticons-navy;
+  color: #fff;
+  text-decoration: none;
+}

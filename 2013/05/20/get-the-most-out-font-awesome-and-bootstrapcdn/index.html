@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Fonticons Blog &mdash; Get the Most out of Font Awesome and BootstrapCDN</title>
+
+  <meta name="description" content="Fonticons Blog &mdash; The Official Fonticons Blog ">
+  <meta name="author" content="Dave Gandy">
+  <meta property="og:title" content="Fonticons Blog: Get the Most out of Font Awesome and BootstrapCDN" />
+  <meta property="og:type" content="article" />
+  <meta property="og:url" content="http://blog.fonticons.com/2013/05/20/get-the-most-out-font-awesome-and-bootstrapcdn/" />
+  <meta property="og:description" content="With a single line of code, you can get all associated Font Awesome CSS and font files served up." />
+
+  <link href='/feed.xml' rel='alternate' type='application/atom+xml'>
+
+  <link rel="stylesheet" href="/assets/css/blog.css" media="screen">
+
+  <script src="//use.typekit.net/gbz4rim.js"></script>
+<script>try{Typekit.load();}catch(e){}</script>
+
+  <script src="//use.fonticons.com/2a6c4e76.js"></script>
+
+  <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-50767802-4', 'auto');
+  ga('send', 'pageview');
+
+</script>
+
+
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+  <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<div id="wrap"> <!-- necessary for sticky footer. wrap all content except footer -->
+  <header>
+  <a class="logo" href="http://fonticons.com"><svg version="1.1" id="fonticons-logo" viewBox="0 0 150 36" width="150" height="36">
+  <path class="f" d="M0.1,29.6v-2.7L2,26.7c0.5-0.1,0.5-0.2,0.5-0.7V15.7c0-0.2,0-0.3-0.3-0.3H0V12h2.5v-1.9c0-4.6,2.6-6.4,7.2-6.4
+  c3.1,0,6,0.8,6,4.9l-4.7,0.6c0-1.7-0.4-2.1-1.6-2.1C7.8,7,7.6,7.9,7.6,9.5v2.1c0,0.2,0,0.3,0.3,0.3h6.2l-1,3.4H7.6v10.5
+  c0,0.5,0.1,0.6,0.6,0.7l4.3,0.4v2.7H0.1z"/>
+  <path class="logo-o1" d="M13.8,20.9c0-5.6,2.9-9.2,9.1-9.2c6.2,0,8.7,3.7,8.7,8.9c0,5.7-2.9,9.4-9.1,9.4C16.3,30,13.8,26.2,13.8,20.9z M26.3,20.7
+  c0-4-1.2-5.4-3.4-5.4c-2.2,0-3.7,1.4-3.7,5.4c0,4.1,1.3,5.7,3.6,5.7C24.9,26.4,26.3,24.9,26.3,20.7z"/>
+  <path class="logo-n1" d="M45.6,29.6V18.7c0-1.6-0.1-3-1.8-3c-1.2,0-2.8,0.7-3.5,1.2v9c0,0.5,0,0.6,0.5,0.7l1.6,0.2v2.7h-9.3v-2.7l1.5-0.2
+  c0.5-0.1,0.5-0.2,0.5-0.7v-9.9c0-0.4-0.1-0.6-0.4-0.7l-1.8-0.6l0.4-2.7h5.9l0.3,1.8l0.1,0.1c1.7-1.2,3.6-2.2,5.9-2.2
+  c3.7,0,5.1,2,5.1,5.7V26c0,0.5,0,0.6,0.5,0.7l1.7,0.2v2.7H45.6z"/>
+  <path class="logo-t" d="M66.9,28.6c-1.5,0.7-3.6,1.3-5.5,1.3c-4,0-5.5-1.6-5.5-5.4v-8.8c0-0.2,0-0.3-0.3-0.3h-2.4v-3c3-0.3,4.1-1.8,4.5-5.5h3.2
+  v4.8c0,0.2,0,0.3,0.3,0.3H66v3.4h-5v8.1c0,2,0.5,2.8,2.3,2.8c0.9,0,1.9-0.2,2.7-0.5L66.9,28.6z"/>
+  <polygon class="logo-star" points="73.4,7.9 76.3,9.5 77,8.8 76.1,5.7 78.2,3.7 77.8,3 75.3,3 73.9,0 73,0 71.6,3 69,3 68.7,3.7 70.7,5.8 69.9,8.8
+    70.6,9.5"/>
+  <path class="logo-i" d="M68.3,29.6v-2.7l1.7-0.2c0.5-0.1,0.5-0.2,0.5-0.7v-9.9c0-0.4-0.1-0.6-0.4-0.7L68,14.7l0.7-2.7h7v14c0,0.5,0,0.6,0.5,0.7
+    l1.7,0.2v2.7H68.3z"/>
+  <path class="logo-c" d="M93.8,28.3c-1.6,0.9-3.9,1.7-6.4,1.7c-6.1,0-8.8-3.8-8.8-8.9c0-6.3,3.8-9.4,9.2-9.4c2.6,0,5,0.7,6,1.4v5.3l-3.6-0.2
+  L89.8,16c0-0.2-0.1-0.4-0.4-0.5c-0.4-0.1-1-0.2-1.7-0.2c-2,0-3.7,1.4-3.7,5.3c0,4.4,2,5.6,4.4,5.6c1.7,0,3.2-0.5,4.2-1L93.8,28.3z"/>
+  <path class="logo-o2" d="M94.8,20.9c0-5.6,2.9-9.2,9.1-9.2c6.2,0,8.7,3.7,8.7,8.9c0,5.7-2.9,9.4-9.1,9.4C97.3,30,94.8,26.2,94.8,20.9z M107.2,20.7
+  c0-4-1.2-5.4-3.4-5.4c-2.2,0-3.7,1.4-3.7,5.4c0,4.1,1.3,5.7,3.6,5.7C105.9,26.4,107.2,24.9,107.2,20.7z"/>
+  <path class="logo-n2" d="M126.2,29.6V18.7c0-1.6-0.1-3-1.8-3c-1.2,0-2.8,0.7-3.5,1.2v9c0,0.5,0,0.6,0.5,0.7l1.6,0.2v2.7h-9.3v-2.7l1.5-0.2
+  c0.5-0.1,0.5-0.2,0.5-0.7v-9.9c0-0.4-0.1-0.6-0.4-0.7l-1.8-0.6L114,12h5.9l0.3,1.8l0.1,0.1c1.7-1.2,3.6-2.2,5.9-2.2
+  c3.7,0,5.1,2,5.1,5.7V26c0,0.5,0,0.6,0.5,0.7l1.7,0.2v2.7H126.2z"/>
+  <path class="logo-s" d="M145.1,17.3l-0.3-1.8c0-0.3-0.1-0.4-0.3-0.5c-0.4-0.1-1.2-0.3-2.2-0.3c-1.7,0-2.6,0.6-2.6,1.7c0,1.4,1.9,1.7,3.9,2.2
+  c2.7,0.6,5.7,1.6,5.7,5.5c0,4.1-3.3,5.8-7.6,5.8c-3.1,0-6.1-0.8-6.7-1.2v-4.9l3.6,0.3l0.3,1.9c0,0.3,0.1,0.4,0.4,0.5
+  c0.4,0.1,1.3,0.3,2.6,0.3c1.8,0,2.8-0.5,2.8-1.8c0-1.3-1.3-1.8-3.1-2.1c-2.8-0.5-6.5-1.1-6.5-5.5c0-4.2,3.6-5.9,7.5-5.9
+  c2.7,0,5.3,0.6,6.2,1v4.9L145.1,17.3z"/>
+
+  <rect class="rect-1" y="33" width="25" height="3"/>
+  <rect class="rect-2" x="31" y="33" width="25" height="3"/>
+  <rect class="rect-3" x="62" y="33" width="25" height="3"/>
+  <rect class="rect-4" x="93" y="33" width="25" height="3"/>
+  <rect class="rect-5" x="124" y="33" width="25" height="3"/>
+</svg>
+</a>
+  <ul class="fonticons">
+    <li><a href="http://fonticons.com">Request an Invitation</a></li>
+  </ul>
+  <ul class="blog">
+    <li><a href="/">Blog</a></li>
+    <li><a href="/articles/">All Articles</a></li>
+    <li><a href="http://twitter.com/" target="_blank"><i class="icon icon-twitter icon-lg"></i></a></li>
+  </ul>
+</header>
+
+
+  <main>
+    <article>
+  <h1><a href="">Get the Most out of Font Awesome and BootstrapCDN</a></h1>
+  <p class="date">
+    <a href="http://twitter.com/davegandy">@davegandy</a> wrote this on 20 May 2013
+    <a href="https://twitter.com/share" class="twitter-share-button" data-count="horizontal" data-via="" data-url="http://blog.fonticons.com/2013/05/20/get-the-most-out-font-awesome-and-bootstrapcdn/" data-text="Get the Most out of Font Awesome and BootstrapCDN:" data-related="davegandy">Tweet</a>
+  </p>
+  <p>The <a href="http://fontawesome.io/get-started/#bootstrapcdn">easiest way to get started</a> with Font Awesome is to use <a href="http://www.bootstrapcdn.com/#tab_fontawesome">BootstrapCDN</a>. With a single line of code, you can get all associated Font Awesome CSS and font files served up. The content is even gzipped coming from Bootstrap CDN:</p>
+<div class="highlight"><pre><code class="language-html" data-lang="html"><span class="nt">&lt;link</span> <span class="na">href=</span><span class="s">&quot;//netdna.bootstrapcdn.com/font-awesome/3.1.1/css/font-awesome.min.css&quot;</span> <span class="na">rel=</span><span class="s">&quot;stylesheet&quot;</span><span class="nt">&gt;</span>
+</code></pre></div>
+<p>This is a fantastic way to get up and running with Font Awesome for the first time, as BootstrapCDN also takes care of serving up font files with all the <a href="http://stackoverflow.com/questions/2871655/proper-mime-type-for-fonts#answer-10864297">proper MIME types</a>.</p>
+
+<h3>Customizing Font Awesome</h3>
+
+<p>This is all well and good, but what about folks who want to customize Font Awesome? Turns out you can serve just the fonts directly from BootstrapCDN from your own customized version of Font Awesome. After <a href="http://fontawesome.io/assets/font-awesome.zip">downloading</a> the latest version of Font Awesome, open up the <code>font-awesome/less</code> directory. Then, edit <code>variables.less</code> and change the <code>@FontAwesomePath</code> variable to:</p>
+<div class="highlight"><pre><code class="language-scss" data-lang="scss"><span class="k">@FontAwesomePath</span><span class="nd">:</span> <span class="s2">&quot;//netdna.bootstrapcdn.com/font-awesome/3.1.1/font&quot;</span><span class="o">;</span>
+</code></pre></div>
+<p>This gives you all the power to customize Font Awesome styles however you like and still get all the benefits and ease of using BootstrapCDN.</p>
+
+
+  
+
+  
+    <a href="/2013/06/04/upcoming-changes-in-font-awesome-3.2-and-4.0/" class="nav-article-next"><i class="icon icon-chevron-right"></i></a>
+  
+</article>
+
+  </main>
+  <div id="push"></div><!-- necessary for sticky footer -->
+</div>
+<footer>
+  stuff goes here
+</footer>
+
+<script src="http://platform.twitter.com/widgets.js"></script>
+<script src="//code.jquery.com/jquery-1.11.1.min.js"></script>
+
+</body>
+</html>

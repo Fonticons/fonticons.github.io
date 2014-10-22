@@ -1,0 +1,45 @@
+article {
+  position: relative;
+  h1 {
+    margin-bottom: .1em;
+    line-height: .95em;
+    text-align: center;
+  }
+  .date {
+    font-size: .875rem;
+    &, a { color: $muted-font-color; }
+    text-align: center;
+    margin-bottom: 2em;
+    height: 20px;
+    line-height: 20px;
+    vertical-align: middle
+  }
+}
+
+.nav-article-previous, .nav-article-next {
+  position: absolute;
+  top: 0px;
+  font-size: 4em;
+  text-align: center;
+  padding: 1.75em 1em;
+  color: rgba($fonticons-navy,.15);
+  text-decoration: none;
+  @include transition(all .25s ease-in-out);
+  &:hover:after, &:hover:before {
+    font-family: $proxima-nova-cond;
+    font-weight: bold;
+    font-size: 1.25rem;
+    vertical-align: 70%;
+    padding: 0 .5rem;
+  }
+}
+.nav-article-previous {
+  left: -3.5em;
+  &:hover { left: -4em; }
+  &:hover:after { content: "Previous Article"; }
+}
+.nav-article-next {
+  right: -3.5em;
+  &:hover { right: -4em; }
+  &:hover:before { content: "Next Article"; }
+}

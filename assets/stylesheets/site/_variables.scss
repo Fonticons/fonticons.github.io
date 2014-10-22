@@ -1,0 +1,37 @@
+// COLOR VARIABLES
+$fonticons-orange:    #ff7f3f;
+$fonticons-green:     #00bc6f;
+$fonticons-blue:      #00a0df;
+$fonticons-yellow:    #ffd600;
+$fonticons-red:       #ff5859;
+
+$fonticons-navy:      #1c1e29;
+
+
+// TYPOGRAPHY
+
+$base-font-size: 1.125em;
+$h1-font-size: $base-font-size * 3;
+$h2-font-size: $base-font-size * 2.5;
+$h3-font-size: $base-font-size * 2;
+$h4-font-size: $base-font-size * 1.75;
+$h5-font-size: $base-font-size * 1.5;
+$h6-font-size: $base-font-size;
+
+$base-font-color:     mix(#fff,$fonticons-navy,25%);
+$muted-font-color:    mix(#fff,$fonticons-navy,50%);
+
+$base-link-color:     $fonticons-orange;
+$hover-link-color:    mix($fonticons-navy,$fonticons-orange,10%);
+
+
+// FONT VARIABLES
+$proxima-nova:        proxima-nova, $helvetica;
+$tisa:                ff-tisa-web-pro, $georgia;
+$proxima-nova-cond:   proxima-nova-sc-osf-ext-cond, $proxima-nova;
+
+$sans-serif:          $proxima-nova;
+$serif:               $tisa;
+
+$base-font-family:    $serif;
+$header-font-family:  $proxima-nova-cond;
