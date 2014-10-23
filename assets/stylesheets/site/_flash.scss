@@ -13,6 +13,6 @@
   a {
     color: $info-color;
     &:hover { color: $info-hover-color; }
-    @include anchor-underline($info-color,.5,$info-hover-color,1);
+    @include anchor-underline($info-color,.75,$info-hover-color,1);
   }
 }

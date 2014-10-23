@@ -828,9 +828,9 @@ pre {
   border-color: #7fcfef; }
   .info a {
     color: #00a0df;
-    -webkit-text-decoration-color: rgba(0, 160, 223, 0.5);
-    -moz-text-decoration-color: rgba(0, 160, 223, 0.5);
-    text-decoration-color: rgba(0, 160, 223, 0.5); }
+    -webkit-text-decoration-color: rgba(0, 160, 223, 0.75);
+    -moz-text-decoration-color: rgba(0, 160, 223, 0.75);
+    text-decoration-color: rgba(0, 160, 223, 0.75); }
     .info a:hover {
       color: #0879a8; }
     .info a:hover, .info a:focus {
