@@ -819,16 +819,17 @@ pre {
     border-radius: 0; }
 
 a.sign-up {
+  display: inline-block;
   -webkit-transition: all 0.2s ease-in-out;
   -moz-transition: all 0.2s ease-in-out;
   transition: all 0.2s ease-in-out;
   background: #ff7f3f;
   border-radius: 3px;
-  color: white;
-  font-family: proxima-nova, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
-  text-transform: uppercase;
+  color: #fff;
+  font-family: proxima-nova-sc-osf-ext-cond, proxima-nova, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  font-size: 1.6875em;
   text-decoration: none;
-  padding: .5em 1em; }
+  padding: .25em 1em; }
   a.sign-up:hover {
     background: #ff9865; }
 
