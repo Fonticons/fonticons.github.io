@@ -256,6 +256,9 @@ h6 {
   margin-top: 1em;
   margin-bottom: .25em; }
 
+.lead {
+  font-size: 1.25em; }
+
 header {
   margin-bottom: 60px;
   padding: 27px 4% 23px; }
@@ -814,6 +817,20 @@ pre {
     white-space: pre-wrap;
     background-color: transparent;
     border-radius: 0; }
+
+a.sign-up {
+  -webkit-transition: all 0.2s ease-in-out;
+  -moz-transition: all 0.2s ease-in-out;
+  transition: all 0.2s ease-in-out;
+  background: #ff7f3f;
+  border-radius: 3px;
+  color: white;
+  font-family: proxima-nova, "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: .5em 1em; }
+  a.sign-up:hover {
+    background: #ff9865; }
 
 .info {
   padding: .5em 1em .75em;

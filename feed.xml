@@ -15,14 +15,16 @@ excited to announce a limited release of the Fonticons beta. Interested? Head on
 
 &lt;h3&gt;Fonticons makes web icons fast and easy.&lt;/h3&gt;
 
-&lt;p&gt;With Fonticons, you&amp;#39;ll be able to choose just the right icon set to match the look and feel of your website, then get
-just the icons and CSS you need &amp;mdash; making your site load even faster.&lt;/p&gt;
+&lt;p&gt;&lt;p class=&quot;lead&quot;&gt;
+With Fonticons, you&amp;#39;ll be able to choose just the right icon set to match the look and feel of your website, then get
+just the icons and CSS you need &amp;mdash; making your site load faster.
+&lt;p&gt;&lt;/p&gt;
 
 &lt;h3&gt;Icon Fonts&lt;/h3&gt;
 
-&lt;p&gt;Icon fonts are a great way to get scalable vector graphics on your website, then get complete control over them with
+&lt;p&gt;Icon fonts are a great way to get scalable vector graphics on your website, then have complete control over them with
 CSS. That&amp;#39;s why I created &lt;a href=&quot;http://fontawesome.io&quot;&gt;Font Awesome&lt;/a&gt; a couple of years ago. Font Awesome gives you a
-large set of scalable vector icons for just about anything your site needs. Its CSS features that make it even
+large set of scalable vector icons for just about anything your site needs. Its CSS features make it even
 easier to use icons at larger sizes, as bullets, or to even spin, stack, and rotate icons.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://meanpath.com/f/HcZE2d&quot;&gt;According to meanpath&lt;/a&gt;, Font Awesome is now on almost 3 million websites. And we
@@ -52,7 +54,7 @@ should have the same level of variety, beauty, and refinement seen in traditiona
 &lt;p&gt;To give you the best icon sets to choose from, we&amp;#39;ve scoured the web and heavily curated just the right ones. We&amp;#39;ve made
 sure each set has a large number of icons, so you&amp;#39;ll be more likely to find the perfect icon when you need it.&lt;/p&gt;
 
-&lt;p&gt;Curious? &lt;a href=&quot;https://fonticons.com/fonts&quot;&gt;Check &amp;#39;em out &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Curious? &lt;a href=&quot;https://fonticons.com/fonts&quot;&gt;Check out our icon sets &amp;raquo;&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;We&amp;#39;re carefully adding new icon sets as we find just the right ones. Think we&amp;#39;re missing a set?
 &lt;a href=&quot;mailto:dave@fonticons.com&quot;&gt;Let me know&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
@@ -99,6 +101,8 @@ best way to talk to us during normal US business hours. If we&amp;#39;re not aro
 
 &lt;p&gt;Want to try out Fonticons? Head on over to &lt;a href=&quot;https://fonticons.com/request/new&quot;&gt;request an invitation&lt;/a&gt; and we&amp;#39;ll get you
 one soon. We&amp;#39;re adding new users just as fast as we can.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;sign-up&quot; href=&quot;https://fonticons.com/request/new&quot;&gt;Request an Invitation&lt;/a&gt;&lt;/p&gt;
 </description>
       <link>http://blog.fonticons.com/2014/10/23/introducing-fonticons/</link>
       <guid isPermaLink="true">http://blog.fonticons.com/2014/10/23/introducing-fonticons/</guid>

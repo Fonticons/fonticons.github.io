@@ -1,0 +1,12 @@
+a.sign-up {
+  @include transition (all 0.2s ease-in-out);
+  background: $fonticons-orange;
+  border-radius: $base-border-radius;
+  color: white;
+  font-family: $proxima-nova;
+  text-transform: uppercase;
+  text-decoration: none;
+  padding: .5em 1em;
+
+  &:hover { background: mix(#fff,$fonticons-orange,20%); }
+}
