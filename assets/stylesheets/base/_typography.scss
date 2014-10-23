@@ -79,8 +79,9 @@ picture {
 blockquote {
   border-left: 2px solid $base-border-color;
   color: lighten($base-font-color, 15);
-  margin: $base-spacing 0;
   padding-left: $base-spacing / 2;
+  font-style: italic;
+  background: mix(#fff, $fonticons-navy,98%);
 }
 
 cite {

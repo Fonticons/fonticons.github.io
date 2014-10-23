@@ -111,8 +111,9 @@ picture {
 blockquote {
   border-left: 2px solid #DDD;
   color: #787b86;
-  margin: 2em 0;
-  padding-left: 1em; }
+  padding-left: 1em;
+  font-style: italic;
+  background: #fafafa; }
 
 cite {
   color: #93959e;
