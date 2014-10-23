@@ -26,3 +26,11 @@ nav.articles {
     line-height: .95em;
   }
 }
+
+.see-all-articles {
+  display: block;
+  margin-top: 1em;
+  font-family: $proxima-nova-cond;
+  font-size: $h2-font-size;
+  text-align: center;
+}
