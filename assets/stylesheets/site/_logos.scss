@@ -1,5 +1,6 @@
 // provides hover styles for logo when logged in
 .logo {
+  sup { vertical-align: 140%; }
   path, polygon { fill: #fff; }
   rect {
     @include transition(opacity .4s linear);
@@ -12,6 +13,28 @@
   .rect-5 { fill: $fonticons-red; }
   &:hover {
     rect { opacity: 1; }
+    polygon {
+      @include animation(star-spin .5s 1 linear);
+      @include transform-origin(50% 50%);
+    }
+  }
+}
+
+.logo, .logo-mini {
+  text-decoration: none;
+  sup {
+    font-size: .75rem;
+    color: mix(#fff,$fonticons-navy, 50%);
+    @include transition(color .1s ease-in-out);
+  }
+  &:hover sup { color: #fff; }
+}
+
+.logo-mini {
+  margin-left: 25px; // offsets the beta text
+  sup { vertical-align: 248%; }
+  path, polygon { fill: #fff; }
+  &:hover {
     polygon {
       @include animation(star-spin .5s 1 linear);
       @include transform-origin(50% 50%);

@@ -1,0 +1,18 @@
+.info {
+  padding: .5em 1em .75em;
+  margin-bottom: 1.25em;
+  border-width: 2px;
+  border-style: dashed;
+  border-radius: $base-border-radius;
+}
+
+.info {
+  background-color: $info-bg;
+  color: $info-color;
+  border-color: $info-border;
+  a {
+    color: $info-color;
+    &:hover { color: $info-hover-color; }
+    @include anchor-underline($info-color,.5,$info-hover-color,1);
+  }
+}

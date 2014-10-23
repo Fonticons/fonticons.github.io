@@ -4,7 +4,7 @@ article {
     margin-bottom: .15em;
     line-height: .95em;
     text-align: center;
-    a { @include anchor-underline($base-link-color,.5,$hover-link-color,.75); }
+    a { @include anchor-underline($hover-link-color,.5,$hover-link-color,.75); }
   }
   .date {
     font-size: .875rem;

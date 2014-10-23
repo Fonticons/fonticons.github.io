@@ -33,4 +33,5 @@ nav.articles {
   font-family: $proxima-nova-cond;
   font-size: $h2-font-size;
   text-align: center;
+  @include anchor-underline($hover-link-color,.5,$hover-link-color,.75);
 }

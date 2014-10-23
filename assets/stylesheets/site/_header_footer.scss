@@ -6,8 +6,7 @@ header {
   ul.fonticons, .logo { float: left; }
   ul.blog { float: right; }
   a {
-    text-decoration: none;
-    padding: 8px 15px 11px;
+    padding: 10px 15px;
     display: block;
     position: relative;
   }
@@ -28,7 +27,7 @@ header, footer {
   }
 }
 
-$footer-height: 240px;
+$footer-height: 250px;
 $footer-margin: 100px;
 
 #wrap {
@@ -42,8 +41,8 @@ footer {
   text-decoration: none;
   text-align: center;
   padding: 40px;
-  a { display: block; }
   nav {
+    a { display: block; }
     max-width: 25em;
     margin: 30px auto 0;
     text-align: left;
