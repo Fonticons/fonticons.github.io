@@ -76,7 +76,7 @@ h6 {
   font-size: 1.125em; }
 
 p {
-  margin: 0 0 0.75em; }
+  margin: 0 0 1em; }
 
 a {
   -webkit-transition: color 0.1s linear;
@@ -101,7 +101,7 @@ hr {
   border-left: none;
   border-right: none;
   border-top: none;
-  margin: 1.5em 0; }
+  margin: 2em 0; }
 
 img,
 picture {
@@ -111,8 +111,8 @@ picture {
 blockquote {
   border-left: 2px solid #DDD;
   color: #787b86;
-  margin: 1.5em 0;
-  padding-left: 0.75em; }
+  margin: 2em 0;
+  padding-left: 1em; }
 
 cite {
   color: #93959e;
@@ -123,8 +123,8 @@ cite {
 fieldset {
   background: #f7f7f7;
   border: 1px solid #DDD;
-  margin: 0 0 0.75em 0;
-  padding: 1.5em; }
+  margin: 0 0 1em 0;
+  padding: 2em; }
 
 input,
 label,
@@ -135,7 +135,7 @@ select {
 
 label {
   font-weight: bold;
-  margin-bottom: 0.375em; }
+  margin-bottom: 0.5em; }
   label.required:after {
     content: "*"; }
   label abbr {
@@ -156,8 +156,8 @@ select[multiple=multiple] {
   box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.06);
   font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
   font-size: 1em;
-  margin-bottom: 0.75em;
-  padding: 0.5em 0.5em;
+  margin-bottom: 1em;
+  padding: 0.66667em 0.66667em;
   width: 100%; }
   textarea:hover,
   input[type="email"]:hover, input[type="number"]:hover, input[type="password"]:hover, input[type="search"]:hover, input[type="tel"]:hover, input[type="text"]:hover, input[type="url"]:hover, input[type="color"]:hover, input[type="date"]:hover, input[type="datetime"]:hover, input[type="datetime-local"]:hover, input[type="month"]:hover, input[type="time"]:hover, input[type="week"]:hover,
@@ -183,32 +183,32 @@ input[type="search"] {
 input[type="checkbox"],
 input[type="radio"] {
   display: inline;
-  margin-right: 0.375em; }
+  margin-right: 0.5em; }
 
 input[type="file"] {
-  padding-bottom: 0.75em;
+  padding-bottom: 1em;
   width: 100%; }
 
 select {
-  margin-bottom: 1.5em;
+  margin-bottom: 2em;
   max-width: 100%;
   width: auto; }
 
 table {
   border-collapse: collapse;
-  margin: 0.75em 0;
+  margin: 1em 0;
   table-layout: fixed;
   width: 100%; }
 
 th {
   border-bottom: 1px solid #b7b7b7;
   font-weight: bold;
-  padding: 0.75em 0;
+  padding: 1em 0;
   text-align: left; }
 
 td {
   border-bottom: 1px solid #DDD;
-  padding: 0.75em 0; }
+  padding: 1em 0; }
 
 tr,
 td,
@@ -221,10 +221,10 @@ ol {
   padding: 0;
   list-style-type: none; }
 dl {
-  margin-bottom: 0.75em; }
+  margin-bottom: 1em; }
   dl dt {
     font-weight: bold;
-    margin-top: 0.75em; }
+    margin-top: 1em; }
   dl dd {
     margin: 0; }
 
