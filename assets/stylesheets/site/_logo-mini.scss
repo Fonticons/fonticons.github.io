@@ -1,0 +1,9 @@
+.logo-mini {
+  path, polygon { fill: #fff; }
+  &:hover {
+    polygon {
+      @include animation(star-spin .5s 1 linear);
+      @include transform-origin(50% 50%);
+    }
+  }
+}

@@ -21,9 +21,9 @@
 
 @include keyframes(star-spin) {
   from { @include transform(rotate(-72deg)); } // 1/5 of a rotation
-  to { @include transform(rotate(2deg)); } // for some reason, an extra 2 degrees are required for this to look right
+  to { @include transform(rotate(0)); } // for some reason, an extra 2 degrees are required for this to look right
 }
 @include keyframes(star-spin-out) {
   from { @include transform(rotate(72deg)); } // 1/5 of a rotation
-  to { @include transform(rotate(-2deg)); } // for some reason, an extra 2 degrees are required for this to look right
+  to { @include transform(rotate(0)); } // for some reason, an extra 2 degrees are required for this to look right
 }

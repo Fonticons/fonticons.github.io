@@ -22,7 +22,7 @@ $base-font-color:     mix(#fff,$fonticons-navy,25%);
 $muted-font-color:    mix(#fff,$fonticons-navy,50%);
 
 $base-link-color:     $fonticons-orange;
-$hover-link-color:    mix($fonticons-navy,$fonticons-orange,10%);
+$hover-link-color:    $fonticons-orange;
 
 
 // FONT VARIABLES
