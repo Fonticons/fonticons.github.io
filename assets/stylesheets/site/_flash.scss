@@ -1,0 +1,28 @@
+.info {
+  padding: .5em 1em .75em;
+  margin-bottom: 1.25em;
+  border-width: 2px;
+  border-style: dashed;
+  border-radius: $base-border-radius;
+  &.initial-icon {
+    position: relative;
+    padding-left: 7em;
+    i {
+      font-size: 4em;
+      position: absolute;
+      top: 1rem;
+      left: 1.5rem;
+    }
+  }
+}
+
+.info {
+  background-color: $info-bg;
+  color: $info-color;
+  border-color: $info-border;
+  a {
+    color: $info-color;
+    &:hover { color: $info-hover-color; }
+    @include anchor-underline($info-color,.75,$info-hover-color,1);
+  }
+}

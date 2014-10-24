@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fonticons Blog</title>
+    <description>The Official Fonticons Blog</description>
+    <link>http://blog.fonticons.com</link>
+    <atom:link href="http://blog.fonticons.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Introducing Fonticons</title>
+      <description>&lt;p class=&quot;info initial-icon&quot;&gt;&lt;i class=&quot;icon icon-newspaper-o&quot;&gt;&lt;/i&gt;
+After several months of hard work, &lt;a href=&quot;http://twitter.com/supercodepoet&quot;&gt;Travis&lt;/a&gt; and
+&lt;a href=&quot;http://twitter.com/davegandy&quot;&gt;I&lt;/a&gt; are crazy excited to announce a limited release of the Fonticons beta.
+Interested? Head on over to &lt;a href=&quot;https://fonticons.com/request/new&quot;&gt;request an invitation&lt;/a&gt; and we&#39;ll get you one
+as soon as we can.&lt;/p&gt;
+
+&lt;h3&gt;Fonticons makes web icons fast and easy.&lt;/h3&gt;
+
+&lt;p&gt;&lt;p class=&quot;lead&quot;&gt;
+With Fonticons, you&amp;#39;ll be able to choose just the right icon set to match the look and feel of your website and get
+just the icons and CSS you need &amp;mdash; making your site load faster.
+&lt;p&gt;&lt;/p&gt;
+
+&lt;h3&gt;Icon Fonts&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“I think this is the beginning of a beautiful friendship.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Icon fonts are a great way to get scalable vector graphics on your website and have complete control over them with
+CSS. That&amp;#39;s why I created &lt;a href=&quot;http://fontawesome.io&quot;&gt;Font Awesome&lt;/a&gt; a couple of years ago. Font Awesome gives you a
+large set of scalable vector icons for just about anything your site needs. Font Awesome&amp;#39;s CSS features make it even
+easier to use icons at larger sizes, as bullets, or even spin, stack, and rotate icons.&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://meanpath.com/f/HcZE2d&quot;&gt;According to meanpath&lt;/a&gt;, Font Awesome is now on almost 3 million websites. And we
+continue to see more and more traffic every month.&lt;/p&gt;
+
+&lt;h3&gt;Why Fonticons?&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“I&amp;#39;m your huckleberry.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;As simple and powerful as icon fonts are to use, they aren&amp;#39;t perfect.&lt;/p&gt;
+
+&lt;p&gt;First, people visiting your website have to download every single icon in the set. Our research shows that most websites
+only use around 20 icons total. Font Awesome, for example, has almost 500 icons. That&amp;#39;s a lot of icons going across the
+wire that your site isn&amp;#39;t using. And there&amp;#39;s likely a good bit of CSS you don&amp;#39;t need either. That slows your site down.&lt;/p&gt;
+
+&lt;p&gt;Second, what if your icon set doesn&amp;#39;t have the exact icon you need? Or what if you want to serve up your company logo?
+Creating your own icon font is no simple task. You&amp;#39;ll need to learn a typesetting tool, figure out how font metrics work,
+make your icons pixel perfect, export to the right webfont formats, figure out the CSS to integrate everything, then get
+your web server to serve up the custom font to every browser without cross-site failures. It&amp;#39;s a big bag of hurt.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Web icons should easier. That&amp;#39;s why we made Fonticons.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3&gt;Speed up Your Website&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“Faster! Faster! Faster would be better!”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Since Fonticons allows you to load just the icons and CSS your website uses, you&amp;#39;ll drastically speed up their load time.&lt;/p&gt;
+
+&lt;p&gt;For example, if this blog were using stock Font Awesome 4.2.0, our icons and CSS would weigh in at 87.4kB.
+Using Fonticons, this blog&amp;#39;s kit weighs in at 4.06kB. That&amp;#39;s a &lt;strong&gt;95% bandwidth savings&lt;/strong&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Tons of Icon Sets&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“We need to talk about your flair.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Just like Helvetica isn&amp;#39;t the perfect typographic font for every website on earth, one single icon set isn&amp;#39;t
+perfect for everyone either. The right set of icons reinforces the exact look and feel you need. We believe iconography
+should have the same level of variety, beauty, and refinement seen in traditional typography.&lt;/p&gt;
+
+&lt;p&gt;To give you the best icon sets to choose from, we&amp;#39;ve scoured the web and heavily curated just the right ones. We&amp;#39;ve made
+sure each set has a large number of icons, so you&amp;#39;ll be more likely to find the perfect icon when you need it.&lt;/p&gt;
+
+&lt;p&gt;Curious? &lt;a href=&quot;https://fonticons.com/fonts&quot;&gt;Check out our icon sets &amp;raquo;&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;We&amp;#39;re carefully adding new icon sets as we find just the right ones. Think we&amp;#39;re missing a set?
+&lt;a href=&quot;mailto:dave@fonticons.com&quot;&gt;Let me know&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3&gt;Powerful, Simple CSS Toolkit&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“I&amp;#39;m giving her all she&amp;#39;s got, Captain!”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We&amp;#39;ve paired the best icon sets with Font Awesome&amp;#39;s powerful CSS toolkit. That makes it easier to control and style your
+icons exactly the way you need. You can also pare down to just the CSS your site needs, making your kit load even faster.&lt;/p&gt;
+
+&lt;h3&gt;Served up from a CDN&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“She&amp;#39;ll make it point-five past lightspeed.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We&amp;#39;ve partnered up with &lt;a href=&quot;http://maxcdn.com&quot;&gt;MaxCDN&lt;/a&gt; to serve your icons wicked fast. Their global network means your kit
+loads faster and more reliably anywhere in the world. Even our free accounts are served by MaxCDN!&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;PS. We love you, MaxCDN. You&amp;#39;ve been hosting Font Awesome on BootstrapCDN since the early days. You&amp;#39;re awesome!&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3&gt;Custom Icons &amp;mdash; COMING SOON!&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“Good. Now I know what to get you for your birthday.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Want to add your company logo to your kit? Or anything else you can imagine? Fonticons makes it easy to upload and
+manage your own custom vector icons. We&amp;#39;re adding this to Fonticons right now, so it should be ready soon!&lt;/p&gt;
+
+&lt;h3&gt;Beta?&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“Boy, that escalated quickly&amp;hellip;”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Right now, Fonticons is a beta product. To us, that means you might occasionally run into an issue here or there. Let us
+know ASAP, and we&amp;#39;ll get it fixed up quickly.&lt;/p&gt;
+
+&lt;h3&gt;Talk to Us&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“Message for you, sir.”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Every day, we&amp;#39;re making Fonticons better. Improving reliability, adding features, simplifying the user experience. But
+we can&amp;#39;t do that alone. We need your input and feedback to constantly make things better.&lt;/p&gt;
+
+&lt;p&gt;We&amp;#39;d love to hear from you. Our &lt;a href=&quot;http://www.hipchat.com/g1K5ugavM&quot;&gt;public channel on HipChat&lt;/a&gt; is the
+best way to talk to us during normal US business hours. If we&amp;#39;re not around on HipChat, try emailing us at
+&lt;a href=&quot;mailto:dave@fonticons.com&quot;&gt;dave@fonticons.com&lt;/a&gt; or &lt;a href=&quot;mailto:travis@fonticons.com&quot;&gt;travis@fonticons.com&lt;/a&gt;. We&amp;#39;ll get back to you as soon as we can.&lt;/p&gt;
+
+&lt;h3&gt;Request an Invitation&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“Aaaaaas&amp;hellip; Yoooooou&amp;hellip; Wiiiiiish&amp;hellip;”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Want to try out Fonticons? Head on over to &lt;a href=&quot;https://fonticons.com/request/new&quot;&gt;request an invitation&lt;/a&gt; and we&amp;#39;ll get you
+one soon. We&amp;#39;re adding new users just as fast as we can.&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;sign-up&quot; href=&quot;https://fonticons.com/request/new&quot;&gt;Request an Invitation&lt;/a&gt;&lt;/p&gt;
+</description>
+      <link>http://blog.fonticons.com/2014/10/23/introducing-fonticons/</link>
+      <guid isPermaLink="true">http://blog.fonticons.com/2014/10/23/introducing-fonticons/</guid>
+    </item>
+    
+  </channel>
+</rss>
