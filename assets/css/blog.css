@@ -306,7 +306,9 @@ footer {
   padding: 40px; }
   footer nav {
     max-width: 25em;
-    margin: 30px auto 0;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
     text-align: left; }
     footer nav a {
       display: block; }
@@ -315,8 +317,7 @@ footer {
       display: table;
       clear: both; }
   footer ul {
-    float: left;
-    display: block; }
+    float: left; }
     footer ul.fonticons {
       width: 50%; }
     footer ul.contact {
@@ -429,11 +430,23 @@ footer {
     -o-transform: rotate(0);
     transform: rotate(0); } }
 main {
-  width: 35em;
-  margin: 0 auto; }
+  max-width: 35em;
+  margin-left: auto;
+  margin-right: auto;
+  display: block; }
+  main:after {
+    content: "";
+    display: table;
+    clear: both; }
 
 article {
+  float: left;
+  display: block;
+  margin-right: 2.35765%;
+  width: 100%;
   position: relative; }
+  article:last-child {
+    margin-right: 0; }
   article h1 {
     margin-bottom: .15em;
     line-height: .95em;

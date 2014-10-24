@@ -43,14 +43,12 @@ footer {
   padding: 40px;
   nav {
     a { display: block; }
-    max-width: 25em;
-    margin: 30px auto 0;
+    @include outer-container(25em);
+    margin-top: 30px;
     text-align: left;
-    @include clearfix();
   }
   ul {
     float: left;
-    display: block;
     &.fonticons { width: 50%; }
     &.contact { width: 30%; }
     &.blog { width: 20%; }

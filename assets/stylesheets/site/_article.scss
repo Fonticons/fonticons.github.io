@@ -1,4 +1,5 @@
 article {
+  @include span-columns(12);
   position: relative;
   h1 {
     margin-bottom: .15em;
