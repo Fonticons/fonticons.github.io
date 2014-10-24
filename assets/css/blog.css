@@ -293,20 +293,20 @@ header, footer {
 
 #wrap {
   min-height: 100%;
-  margin: 0 auto -280px; }
+  margin: 0 auto -350px; }
 
 #push {
-  height: 280px; }
+  height: 350px; }
 
 footer {
   margin-top: 100px;
-  height: 180px;
+  height: 250px;
   text-decoration: none;
   text-align: center;
-  padding: 60px; }
+  padding: 40px; }
   footer nav {
-    max-width: 60em;
-    margin: 0 auto;
+    max-width: 25em;
+    margin: 30px auto 0;
     text-align: left; }
     footer nav a {
       display: block; }
@@ -314,36 +314,15 @@ footer {
       content: "";
       display: table;
       clear: both; }
-  footer a.logo-mini {
-    padding-top: 3px;
+  footer ul {
     float: left;
-    display: block;
-    margin-right: 2.35765%;
-    width: 40.29137%; }
-    footer a.logo-mini:last-child {
-      margin-right: 0; }
-  footer ul.fonticons {
-    float: left;
-    display: block;
-    margin-right: 2.35765%;
-    width: 23.23176%; }
-    footer ul.fonticons:last-child {
-      margin-right: 0; }
-  footer ul.contact {
-    float: left;
-    display: block;
-    margin-right: 2.35765%;
-    width: 14.70196%; }
-    footer ul.contact:last-child {
-      margin-right: 0; }
-  footer ul.blog {
-    float: left;
-    display: block;
-    margin-right: 2.35765%;
-    width: 14.70196%;
-    margin-right: 0; }
-    footer ul.blog:last-child {
-      margin-right: 0; }
+    display: block; }
+    footer ul.fonticons {
+      width: 50%; }
+    footer ul.contact {
+      width: 30%; }
+    footer ul.blog {
+      width: 20%; }
 
 .logo sup {
   vertical-align: 140%; }

@@ -27,7 +27,7 @@ header, footer {
   }
 }
 
-$footer-height: 180px;
+$footer-height: 250px;
 $footer-margin: 100px;
 
 #wrap {
@@ -40,26 +40,19 @@ footer {
   height: $footer-height;
   text-decoration: none;
   text-align: center;
-  padding: 60px;
+  padding: 40px;
   nav {
     a { display: block; }
-    max-width: 60em;
-    margin: 0 auto;
+    max-width: 25em;
+    margin: 30px auto 0;
     text-align: left;
     @include clearfix();
   }
-  a.logo-mini {
-    padding-top: 3px;
-    @include span-columns(5);
-  }
-  ul.fonticons {
-    @include span-columns(3);
-  }
-  ul.contact {
-    @include span-columns(2);
-  }
-  ul.blog {
-    @include span-columns(2);
-    @include omega();
+  ul {
+    float: left;
+    display: block;
+    &.fonticons { width: 50%; }
+    &.contact { width: 30%; }
+    &.blog { width: 20%; }
   }
 }

@@ -9,9 +9,10 @@
     <item>
       <title>Introducing Fonticons</title>
       <description>&lt;p class=&quot;info initial-icon&quot;&gt;&lt;i class=&quot;icon icon-newspaper-o&quot;&gt;&lt;/i&gt;
-After several months of hard work, &lt;a href=&quot;http://twitter.com/supercodepoet&quot;&gt;Travis&lt;/a&gt; and I are crazy
-excited to announce a limited release of the Fonticons beta. Interested? Head on over to
-&lt;a href=&quot;https://fonticons.com/request/new&quot;&gt;request an invitation&lt;/a&gt; and we&#39;ll get you one as soon as we can.&lt;/p&gt;
+After several months of hard work, &lt;a href=&quot;http://twitter.com/supercodepoet&quot;&gt;Travis&lt;/a&gt; and
+&lt;a href=&quot;http://twitter.com/davegandy&quot;&gt;I&lt;/a&gt; are crazy excited to announce a limited release of the Fonticons beta.
+Interested? Head on over to &lt;a href=&quot;https://fonticons.com/request/new&quot;&gt;request an invitation&lt;/a&gt; and we&#39;ll get you one
+as soon as we can.&lt;/p&gt;
 
 &lt;h3&gt;Fonticons makes web icons fast and easy.&lt;/h3&gt;
 
@@ -53,6 +54,17 @@ your web server to serve up the custom font to every browser without cross-site 
 
 &lt;p&gt;&lt;strong&gt;Web icons should easier. That&amp;#39;s why we made Fonticons.&lt;/strong&gt;&lt;/p&gt;
 
+&lt;h3&gt;Speed up Your Website&lt;/h3&gt;
+
+&lt;blockquote&gt;
+&lt;p&gt;“Faster! Faster! Faster would be better!”&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;Since Fonticons allows you to load just the icons and CSS your website uses, you&amp;#39;ll drastically speed up their load time.&lt;/p&gt;
+
+&lt;p&gt;For example, if this blog were using stock Font Awesome 4.2.0, our icons and CSS would weigh in at 87.4kB.
+Using Fonticons, this blog&amp;#39;s kit weighs in at 4.06kB. That&amp;#39;s a &lt;strong&gt;95% bandwidth savings&lt;/strong&gt;.&lt;/p&gt;
+
 &lt;h3&gt;Tons of Icon Sets&lt;/h3&gt;
 
 &lt;blockquote&gt;
@@ -71,17 +83,6 @@ sure each set has a large number of icons, so you&amp;#39;ll be more likely to f
 &lt;p&gt;&lt;em&gt;We&amp;#39;re carefully adding new icon sets as we find just the right ones. Think we&amp;#39;re missing a set?
 &lt;a href=&quot;mailto:dave@fonticons.com&quot;&gt;Let me know&lt;/a&gt;.&lt;/em&gt;&lt;/p&gt;
 
-&lt;h3&gt;Speed up Your Website&lt;/h3&gt;
-
-&lt;blockquote&gt;
-&lt;p&gt;“Faster! Faster! Faster would be better!”&lt;/p&gt;
-&lt;/blockquote&gt;
-
-&lt;p&gt;Since Fonticons allows you to load just the icons and CSS your website uses, you&amp;#39;ll drastically speed up their load time.&lt;/p&gt;
-
-&lt;p&gt;For example, if this blog were using stock Font Awesome 4.2.0, our icons and CSS would weigh in at 87.4kb.
-Using Fonticons, this blog&amp;#39;s kit weighs in at 4.06kb. That&amp;#39;s a &lt;strong&gt;95% bandwidth savings&lt;/strong&gt;.&lt;/p&gt;
-
 &lt;h3&gt;Powerful, Simple CSS Toolkit&lt;/h3&gt;
 
 &lt;blockquote&gt;
@@ -97,7 +98,7 @@ icons exactly the way you need. You can also pare down to just the CSS your site
 &lt;p&gt;“She&amp;#39;ll make it point-five past lightspeed.”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;We&amp;#39;ve partnered up with &lt;a href=&quot;http://maxcdn.com&quot;&gt;MaxCDN&lt;/a&gt; to serve your icons crazy fast. Their global network means your kit
+&lt;p&gt;We&amp;#39;ve partnered up with &lt;a href=&quot;http://maxcdn.com&quot;&gt;MaxCDN&lt;/a&gt; to serve your icons wicked fast. Their global network means your kit
 loads faster and more reliably anywhere in the world. Even our free accounts are served by MaxCDN!&lt;/p&gt;
 
 &lt;p&gt;&lt;em&gt;PS. We love you, MaxCDN. You&amp;#39;ve been hosting Font Awesome on BootstrapCDN since the early days. You&amp;#39;re awesome!&lt;/em&gt;&lt;/p&gt;
