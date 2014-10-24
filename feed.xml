@@ -8,7 +8,7 @@
     
     <item>
       <title>Introducing Fonticons</title>
-      <description>&lt;p class=&quot;info&quot;&gt;&lt;i class=&quot;icon icon-newspaper-o initial&quot;&gt;&lt;/i&gt;
+      <description>&lt;p class=&quot;info initial-icon&quot;&gt;&lt;i class=&quot;icon icon-newspaper-o&quot;&gt;&lt;/i&gt;
 After several months of hard work, &lt;a href=&quot;http://twitter.com/supercodepoet&quot;&gt;Travis&lt;/a&gt; and I are crazy
 excited to announce a limited release of the Fonticons beta. Interested? Head on over to
 &lt;a href=&quot;https://fonticons.com/request/new&quot;&gt;request an invitation&lt;/a&gt; and we&#39;ll get you one as soon as we can.&lt;/p&gt;
@@ -16,7 +16,7 @@ excited to announce a limited release of the Fonticons beta. Interested? Head on
 &lt;h3&gt;Fonticons makes web icons fast and easy.&lt;/h3&gt;
 
 &lt;p&gt;&lt;p class=&quot;lead&quot;&gt;
-With Fonticons, you&amp;#39;ll be able to choose just the right icon set to match the look and feel of your website, then get
+With Fonticons, you&amp;#39;ll be able to choose just the right icon set to match the look and feel of your website and get
 just the icons and CSS you need &amp;mdash; making your site load faster.
 &lt;p&gt;&lt;/p&gt;
 
@@ -26,10 +26,10 @@ just the icons and CSS you need &amp;mdash; making your site load faster.
 &lt;p&gt;“I think this is the beginning of a beautiful friendship.”&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Icon fonts are a great way to get scalable vector graphics on your website, then have complete control over them with
+&lt;p&gt;Icon fonts are a great way to get scalable vector graphics on your website and have complete control over them with
 CSS. That&amp;#39;s why I created &lt;a href=&quot;http://fontawesome.io&quot;&gt;Font Awesome&lt;/a&gt; a couple of years ago. Font Awesome gives you a
 large set of scalable vector icons for just about anything your site needs. Font Awesome&amp;#39;s CSS features make it even
-easier to use icons at larger sizes, as bullets, or to even spin, stack, and rotate icons.&lt;/p&gt;
+easier to use icons at larger sizes, as bullets, or even spin, stack, and rotate icons.&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;https://meanpath.com/f/HcZE2d&quot;&gt;According to meanpath&lt;/a&gt;, Font Awesome is now on almost 3 million websites. And we
 continue to see more and more traffic every month.&lt;/p&gt;

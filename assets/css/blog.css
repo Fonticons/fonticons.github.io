@@ -293,20 +293,20 @@ header, footer {
 
 #wrap {
   min-height: 100%;
-  margin: 0 auto -350px; }
+  margin: 0 auto -280px; }
 
 #push {
-  height: 350px; }
+  height: 280px; }
 
 footer {
   margin-top: 100px;
-  height: 250px;
+  height: 180px;
   text-decoration: none;
   text-align: center;
-  padding: 40px; }
+  padding: 60px; }
   footer nav {
-    max-width: 25em;
-    margin: 30px auto 0;
+    max-width: 60em;
+    margin: 0 auto;
     text-align: left; }
     footer nav a {
       display: block; }
@@ -314,17 +314,36 @@ footer {
       content: "";
       display: table;
       clear: both; }
-  footer ul {
+  footer a.logo-mini {
+    padding-top: 3px;
     float: left;
     display: block;
     margin-right: 2.35765%;
-    width: 31.76157%; }
-    footer ul:last-child {
+    width: 40.29137%; }
+    footer a.logo-mini:last-child {
       margin-right: 0; }
-    footer ul:nth-child(3n) {
+  footer ul.fonticons {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 23.23176%; }
+    footer ul.fonticons:last-child {
       margin-right: 0; }
-    footer ul:nth-child(3n+1) {
-      clear: left; }
+  footer ul.contact {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 14.70196%; }
+    footer ul.contact:last-child {
+      margin-right: 0; }
+  footer ul.blog {
+    float: left;
+    display: block;
+    margin-right: 2.35765%;
+    width: 14.70196%;
+    margin-right: 0; }
+    footer ul.blog:last-child {
+      margin-right: 0; }
 
 .logo sup {
   vertical-align: 140%; }
@@ -368,21 +387,19 @@ footer {
   .logo:hover sup, .logo-mini:hover sup {
     color: #fff; }
 
-.logo-mini {
-  margin-left: 25px; }
-  .logo-mini sup {
-    vertical-align: 248%; }
-  .logo-mini path, .logo-mini polygon {
-    fill: #fff; }
-  .logo-mini:hover polygon {
-    -webkit-animation: star-spin 0.5s 1 linear;
-    -moz-animation: star-spin 0.5s 1 linear;
-    animation: star-spin 0.5s 1 linear;
-    -webkit-transform-origin: 50% 50%;
-    -moz-transform-origin: 50% 50%;
-    -ms-transform-origin: 50% 50%;
-    -o-transform-origin: 50% 50%;
-    transform-origin: 50% 50%; }
+.logo-mini sup {
+  vertical-align: 248%; }
+.logo-mini path, .logo-mini polygon {
+  fill: #fff; }
+.logo-mini:hover polygon {
+  -webkit-animation: star-spin 0.5s 1 linear;
+  -moz-animation: star-spin 0.5s 1 linear;
+  animation: star-spin 0.5s 1 linear;
+  -webkit-transform-origin: 50% 50%;
+  -moz-transform-origin: 50% 50%;
+  -ms-transform-origin: 50% 50%;
+  -o-transform-origin: 50% 50%;
+  transform-origin: 50% 50%; }
 
 @-webkit-keyframes star-spin {
   from {
@@ -840,6 +857,14 @@ a.sign-up {
   border-width: 2px;
   border-style: dashed;
   border-radius: 3px; }
+  .info.initial-icon {
+    position: relative;
+    padding-left: 7em; }
+    .info.initial-icon i {
+      font-size: 4em;
+      position: absolute;
+      top: 1rem;
+      left: 1.5rem; }
 
 .info {
   background-color: #f2fafd;
@@ -856,11 +881,5 @@ a.sign-up {
       -webkit-text-decoration-color: #0879a8;
       -moz-text-decoration-color: #0879a8;
       text-decoration-color: #0879a8; }
-
-.info .initial {
-  font-size: 4em;
-  float: left;
-  margin-right: .25em;
-  margin-bottom: .25em; }
 
 /*# sourceMappingURL=blog.css.map */

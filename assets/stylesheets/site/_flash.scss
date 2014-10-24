@@ -4,6 +4,16 @@
   border-width: 2px;
   border-style: dashed;
   border-radius: $base-border-radius;
+  &.initial-icon {
+    position: relative;
+    padding-left: 7em;
+    i {
+      font-size: 4em;
+      position: absolute;
+      top: 1rem;
+      left: 1.5rem;
+    }
+  }
 }
 
 .info {
