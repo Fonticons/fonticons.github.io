@@ -7,6 +7,28 @@
     <atom:link href="http://blog.fonticons.com/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Invites and Custom Icons</title>
+      <description>&lt;h3&gt;Invitations are going out!&lt;/h3&gt;
+
+&lt;p&gt;Travis and I are crazy excited (yep, again), because we just sent out the first batch of Fonticons Beta invitations!
+We&amp;#39;re rolling them out slowly to make sure everything goes smoothly. If you already
+&lt;a href=&quot;https://fonticons.com/request/new&quot;&gt;requested for an invitation&lt;/a&gt;, you should be getting it in the next few days!&lt;/p&gt;
+
+&lt;p&gt;If you have any issues or usability suggestions, please please talk to us! As we said in our last post, the easiest
+way to get in touch with us is our &lt;a href=&quot;http://www.hipchat.com/g1K5ugavM&quot;&gt;public channel on HipChat&lt;/a&gt; (during US business
+hours). Otherwise, hit us up on email at &lt;a href=&quot;mailto:dave@fonticons.com&quot;&gt;dave@fonticons.com&lt;/a&gt; or &lt;a href=&quot;mailto:travis@fonticons.com&quot;&gt;travis@fonticons.com&lt;/a&gt;.&lt;/p&gt;
+
+&lt;h3&gt;Up Next: Custom Icons&lt;/h3&gt;
+
+&lt;p&gt;Next, we&amp;#39;re working on implementing custom icons for the beta. I&amp;#39;ve mapped out use cases, workflows, and the
+HTML &amp;amp; CSS prototypes are ready to go. Today, Travis is starting implementation. We&amp;#39;re expecting to have those ready
+sometime in the next month.&lt;/p&gt;
+</description>
+      <link>http://blog.fonticons.com/2014/11/05/invites-and-custom-icons/</link>
+      <guid isPermaLink="true">http://blog.fonticons.com/2014/11/05/invites-and-custom-icons/</guid>
+    </item>
+    
+    <item>
       <title>Introducing Fonticons</title>
       <description>&lt;p class=&quot;info initial-icon&quot;&gt;&lt;i class=&quot;icon icon-newspaper-o&quot;&gt;&lt;/i&gt;
 After several months of hard work, &lt;a href=&quot;http://twitter.com/supercodepoet&quot;&gt;Travis&lt;/a&gt; and
