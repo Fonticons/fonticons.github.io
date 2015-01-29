@@ -1,19 +1,23 @@
 article {
   @include span-columns(12);
   position: relative;
+  a { font-weight: bold; }
   h1 {
     margin-bottom: .15em;
     line-height: .95em;
     text-align: center;
     a { @include anchor-underline($hover-link-color,.5,$hover-link-color,.75); }
   }
+  ul { @extend %default-ul; }
   .date {
     font-size: .875rem;
-    &, a { color: $muted-font-color; }
+    &, a {
+      color: $muted-font-color;
+      font-weight: normal;
+    }
     a:hover { color: $hover-link-color; }
     text-align: center;
     margin-bottom: 2em;
-//    height: 20px;
     line-height: 20px;
     vertical-align: middle;
   }

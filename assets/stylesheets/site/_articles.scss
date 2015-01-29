@@ -28,7 +28,7 @@ nav.articles {
 }
 
 .see-all-articles {
-  display: block;
+  @include span-columns(12);
   margin-top: 1em;
   font-family: $proxima-nova-cond;
   font-size: $h2-font-size;
