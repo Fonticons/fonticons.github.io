@@ -6,6 +6,7 @@ article {
     margin-bottom: .15em;
     line-height: .95em;
     text-align: center;
+    a { color: $base-font-color;}
     a { @include anchor-underline($hover-link-color,.5,$hover-link-color,.75); }
   }
   ul { @extend %default-ul; }

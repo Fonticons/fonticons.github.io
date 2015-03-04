@@ -23,8 +23,8 @@ $muted-font-color:    mix(#fff,$fonticons-navy,50%);
 
 $base-spacing: 2em;
 
-$base-link-color:     mix(#fff,$fonticons-navy,25%);
-$hover-link-color:    $fonticons-orange;
+$base-link-color:     $fonticons-orange;
+$hover-link-color:    mix($fonticons-navy,$fonticons-orange,15%);
 
 
 // FONT VARIABLES
