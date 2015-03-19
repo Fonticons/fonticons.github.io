@@ -7,6 +7,42 @@
     <atom:link href="http://blog.fonticons.com/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Kit Download and Annual Billing</title>
+      <description>&lt;p&gt;We&amp;#39;re hard at work every day at Fonticons making things better. We listen closely to each and every conversation
+we have to see where we should make changes. You&amp;#39;ve given us a ton of great feedback and ideas, so thank you!&lt;/p&gt;
+
+&lt;h3&gt;Kit Download&lt;/h3&gt;
+
+&lt;p&gt;The most common request we&amp;#39;ve had is for the ability to download your kits. If you&amp;#39;ve got your own asset workflow or CDN,
+it can be important to have full control over where things are served from.&lt;/p&gt;
+
+&lt;p&gt;So we&amp;#39;re proud to announce that you can now download directly from the &amp;quot;Publish Kit&amp;quot;
+step when you&amp;#39;re editing your kit!&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/2015-03-19-kit-download.png&quot; alt=&quot;Kit Download&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;We&amp;#39;ve also got some more improvements coming soon for kit download:
+- Full kit documentation as a static HTML file
+- Woff2 support!&lt;/p&gt;
+
+&lt;h3&gt;Annual Billing&lt;/h3&gt;
+
+&lt;p&gt;To enable Kit Download, you&amp;#39;ll need to switch to Annual Billing. We&amp;#39;re also throwing in 2 free months when you switch!&lt;/p&gt;
+
+&lt;p&gt;There&amp;#39;s a link right under the Download Kit button:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/2015-03-19-annual-billing.png&quot; alt=&quot;Annual Billing&quot;&gt;&lt;/p&gt;
+
+&lt;h3&gt;More to Come!&lt;/h3&gt;
+
+&lt;p&gt;We&amp;#39;ve got a lot more up our sleeves to make Fonticons better, so stay tuned. Have any issues, ideas, or thoughts? Drop
+us a note at &lt;a href=&quot;mailto:support@fonticons.com&quot;&gt;support@fonticons.com&lt;/a&gt;!&lt;/p&gt;
+</description>
+      <link>http://blog.fonticons.com/2015/03/04/kit-download-and-annual-billing/</link>
+      <guid isPermaLink="true">http://blog.fonticons.com/2015/03/04/kit-download-and-annual-billing/</guid>
+    </item>
+    
+    <item>
       <title>Black Tie!</title>
       <description>&lt;p&gt;We&amp;#39;re super excited to announce the addition of Black Tie to Fonticons! It is immediately available for folks on the
 Freelancer, Studio, and Agency plans!&lt;/p&gt;
