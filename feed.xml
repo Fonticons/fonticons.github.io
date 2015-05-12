@@ -7,6 +7,36 @@
     <atom:link href="http://blog.fonticons.com/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Stay, Unicode, Stay. Good Unicode.</title>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;“You said stay so I stayed.&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;One of the best things about my job is getting to deliver a feature our awesome 
+users have asked for. Today, I am happy to announce changes to how unicode
+values our handled in your kits!&lt;/p&gt;
+
+&lt;p&gt;Before when you added icons to a kit we waited until you published the kit to 
+assign a unicode value to it. The problem was that when you removed an earlier
+icon all the unicode values could get shuffled when publishing the kit again.&lt;/p&gt;
+
+&lt;p&gt;Now when you add an icon to a kit we generate its unicode value right then. You have
+the ability to change this value on the &amp;quot;Tweak Kit&amp;quot; tab of your kit&amp;#39;s settings.
+You can also see these values in the kit&amp;#39;s documentation found under the &amp;quot;Publish Kit&amp;quot;
+tab.&lt;/p&gt;
+
+&lt;p&gt;With this change we hope make the transition from regular Font Awesome to using 
+Fonticons much easier. We also hope that this will allow our users to do some
+new and amazing things in their CSS with their kits. &lt;/p&gt;
+
+&lt;p&gt;We try very hard to make Fonticons the best it can be. We&amp;#39;re always listening
+to new suggestions, so keep&amp;#39;em coming!&lt;/p&gt;
+</description>
+      <link>http://blog.fonticons.com/2015/05/12/stay-unicode-stay/</link>
+      <guid isPermaLink="true">http://blog.fonticons.com/2015/05/12/stay-unicode-stay/</guid>
+    </item>
+    
+    <item>
       <title>Copy &amp; Paste from Illustrator CC, Enterprise Services, and Free Accounts</title>
       <description>&lt;h3&gt;Copy &amp;amp; Paste from Illustrator CC!&lt;/h3&gt;
 
