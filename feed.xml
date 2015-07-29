@@ -7,6 +7,43 @@
     <atom:link href="http://blog.fonticons.com/feed.xml" rel="self" type="application/rss+xml" />
     
     <item>
+      <title>Peas in a Pod</title>
+      <description>&lt;blockquote&gt;
+&lt;p&gt;Brothers don&amp;#39;t shake hands. Brothers gotta HUG!&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;We love to enjoy the great beauty of this world. An exquisite single origin coffee,
+roasted to perfection and lovingly brewed with pour over. That pleasant surprise when you get the exact
+food pairing for the wine you are drinking. The satisfaction of getting just the right icons
+and font to make your website pop.&lt;/p&gt;
+
+&lt;p&gt;Just like wine and food work together we believe typography fonts
+and icon sets are like two peas in a pod. We felt so strongly about this we added a feature to
+Fonticons allowing you to add typography fonts to your kit!&lt;/p&gt;
+
+&lt;h2&gt;Serve Fonts with Your Kits!&lt;/h2&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/2015-07-29-kit-add-fonts.png&quot; alt=&quot;Add Fonts&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;We have added the ability to upload fonts that you already own or pick from 5 beautiful fonts we have 
+hand selected: Arvo, Lato, Merriweather, Open Sans, and Raleway. These fonts can be added to your kit
+and served up just like your icons. We think this will make super simple to get just the right pairing 
+of fonts and icons, use them in your site and serve them up blazing fast from a CDN.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;/assets/img/2015-07-29-select-fonts.png&quot; alt=&quot;Select Fonts&quot;&gt;&lt;/p&gt;
+
+&lt;p&gt;We are so excited for you to try it out we have added this feature to all our plans, including free! We can’t wait to
+see what pairings you guys come up with. We will be working on some of our own pairings and release 
+our version of tasting notes :)&lt;/p&gt;
+
+&lt;p&gt;Again, if the is anything you would like to see added to Fonticons or and help you are needing we are 
+all ears. We would LOVE to hear from you &lt;a href=&quot;mailto:hello@fonticons.com&quot;&gt;&lt;a href=&quot;mailto:hello@fonticons.com&quot;&gt;hello@fonticons.com&lt;/a&gt;&lt;/a&gt;!&lt;/p&gt;
+</description>
+      <link>http://blog.fonticons.com/2015/07/29/peas-in-a-pod/</link>
+      <guid isPermaLink="true">http://blog.fonticons.com/2015/07/29/peas-in-a-pod/</guid>
+    </item>
+    
+    <item>
       <title>Welcome Flaticons!</title>
       <description>&lt;blockquote&gt;
 &lt;p&gt;Whew! Watch out for that first step. It&amp;#39;s a doozy!&lt;/p&gt;
@@ -358,28 +395,6 @@ year.&lt;/p&gt;
 </description>
       <link>http://blog.fonticons.com/2015/01/02/new-year-new-feature-new-updates/</link>
       <guid isPermaLink="true">http://blog.fonticons.com/2015/01/02/new-year-new-feature-new-updates/</guid>
-    </item>
-    
-    <item>
-      <title>Invites and Custom Icons</title>
-      <description>&lt;h3&gt;Invitations are going out!&lt;/h3&gt;
-
-&lt;p&gt;Travis and I are crazy excited (yep, again), because we just sent out the first batch of Fonticons Beta invitations!
-We&amp;#39;re rolling them out slowly to make sure everything goes smoothly. If you already
-&lt;a href=&quot;https://fonticons.com/request/new&quot;&gt;requested for an invitation&lt;/a&gt;, you should be getting it in the next few days!&lt;/p&gt;
-
-&lt;p&gt;If you have any issues or usability suggestions, please please talk to us! As we said in our last post, the easiest
-way to get in touch with us is our &lt;a href=&quot;http://www.hipchat.com/g1K5ugavM&quot;&gt;public channel on HipChat&lt;/a&gt; (during US business
-hours). Otherwise, hit us up on email at &lt;a href=&quot;mailto:dave@fonticons.com&quot;&gt;dave@fonticons.com&lt;/a&gt; or &lt;a href=&quot;mailto:travis@fonticons.com&quot;&gt;travis@fonticons.com&lt;/a&gt;.&lt;/p&gt;
-
-&lt;h3&gt;Up Next: Custom Icons&lt;/h3&gt;
-
-&lt;p&gt;Next, we&amp;#39;re working on implementing custom icons for the beta. I&amp;#39;ve mapped out use cases, workflows, and the
-HTML &amp;amp; CSS prototypes are ready to go. Today, Travis is starting implementation. We&amp;#39;re expecting to have those ready
-sometime in the next month.&lt;/p&gt;
-</description>
-      <link>http://blog.fonticons.com/2014/11/05/invites-and-custom-icons/</link>
-      <guid isPermaLink="true">http://blog.fonticons.com/2014/11/05/invites-and-custom-icons/</guid>
     </item>
     
   </channel>
